@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HobbyHub-dashboard/static/css/main.9960e47c.chunk.css",
+    "main.js": "/HobbyHub-dashboard/static/js/main.7fcd4e52.chunk.js",
+    "main.js.map": "/HobbyHub-dashboard/static/js/main.7fcd4e52.chunk.js.map",
+    "runtime-main.js": "/HobbyHub-dashboard/static/js/runtime-main.aefa7de4.js",
+    "runtime-main.js.map": "/HobbyHub-dashboard/static/js/runtime-main.aefa7de4.js.map",
+    "static/js/2.962f4c9d.chunk.js": "/HobbyHub-dashboard/static/js/2.962f4c9d.chunk.js",
+    "static/js/2.962f4c9d.chunk.js.map": "/HobbyHub-dashboard/static/js/2.962f4c9d.chunk.js.map",
+    "static/js/3.c550846a.chunk.js": "/HobbyHub-dashboard/static/js/3.c550846a.chunk.js",
+    "static/js/3.c550846a.chunk.js.map": "/HobbyHub-dashboard/static/js/3.c550846a.chunk.js.map",
+    "index.html": "/HobbyHub-dashboard/index.html",
+    "static/css/main.9960e47c.chunk.css.map": "/HobbyHub-dashboard/static/css/main.9960e47c.chunk.css.map",
+    "static/js/2.962f4c9d.chunk.js.LICENSE.txt": "/HobbyHub-dashboard/static/js/2.962f4c9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aefa7de4.js",
+    "static/js/2.962f4c9d.chunk.js",
+    "static/css/main.9960e47c.chunk.css",
+    "static/js/main.7fcd4e52.chunk.js"
+  ]
+}
